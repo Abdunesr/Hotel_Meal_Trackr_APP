@@ -1,16 +1,18 @@
 # meals
 
-A new Flutter project.
+This flutter App will allows user to navigate between diffrent food items and they can add their favourite,navigat between diffrent screens
+I built this app for the pusrpose of gainning deep Knowledge in navigating between screen 
 
-## Getting Started
+-USED DIFFRENT TYPES OF WIDGET like
+>popScope
+>listview
+>listile
+>drawer
+>and musch much more
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+please make sure you have correct setup to run the app 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+for more use this link to get in to flutter official documentation
+https://docs.flutter.dev/get-started/install/windows   for instalation
+https://docs.flutter.dev/          to gain more info about the widgets i have used
