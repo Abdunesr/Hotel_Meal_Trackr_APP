@@ -1,4 +1,4 @@
-# meals
+# HOTEL_Meal_Tracker
 
 This flutter App will allows user to navigate between diffrent food items and they can add their favourite,navigat between diffrent screens
 I built this app for the pusrpose of gainning deep Knowledge in navigating between screen 
