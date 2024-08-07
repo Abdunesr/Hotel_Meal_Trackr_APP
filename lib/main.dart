@@ -17,7 +17,8 @@ final theme = ThemeData(
 );
 
 void main() {
-  runApp(const App());
+  runApp(const App(),
+        );
 }
 
 class App extends StatelessWidget {
