@@ -18,7 +18,8 @@ final theme = ThemeData(
 );
 
 void main() {
-  runApp(const ProviderScope(child:  App()));
+  runApp(const ProviderScope(child:  App(),),);
+ 
 }
 
 class App extends StatelessWidget {
