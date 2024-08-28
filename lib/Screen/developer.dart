@@ -25,7 +25,7 @@ class Developer extends StatelessWidget {
               height: 20,
             ),
             const Text(
-              'HI 👋🏿 i am Abdelah I am a Software Enginering Student i built this app from the knowledge that i gain in udemy course this is just a demo app thir will be more to come wait for the amazing app using this link  thank you ',
+              'HI 👋🏿 i am Abdelah I am a Software Enginering Student  ',
               style: TextStyle(color: Colors.white),
             ),
             const SizedBox(
@@ -40,7 +40,7 @@ class Developer extends StatelessWidget {
                         Radius.circular(20),
                       ),
                       gradient: LinearGradient(colors: [
-                        Color.fromARGB(125, 77, 145, 200),
+                        Color.fromARGB(125, 76, 145, 200),
                         Color.fromARGB(125, 122, 187, 241)
                       ])),
                   child: const Icon(
